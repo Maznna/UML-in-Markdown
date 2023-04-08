@@ -55,8 +55,9 @@ The Markdown
 ```
 ![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Maznna/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
 ```
+https://github.com/Maznna/UML-in-Markdown/blob/master/UML/Instance.puml
 
 The Diagram
 ----
 
-![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Maznna/Markdown-Document-UML-Use-Test/master/UML/Instance.puml)
+![Class Diagram](http://www.plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/Maznna/UML-in-Markdown/master/UML/Instance.puml)
