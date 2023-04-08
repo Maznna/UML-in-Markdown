@@ -1,10 +1,10 @@
 @startuml
 
-Instance <|-- TestObject
+SomeObject <|-- TestObject
 
-class Instance {
+class SomeObject {
     -- Contructors & destructors --
-    - Instance()
+    - SomeObject()
     
     -- Public methods --
     + Initialize() : bool
